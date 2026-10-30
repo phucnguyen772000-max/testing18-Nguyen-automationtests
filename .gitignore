@@ -5,6 +5,11 @@ target/
 .kotlin
 .idea/
 .junie/
+
+# Local test credentials and data
+src/test/resources/config.properties
+src/test/resources/login-data.json
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
